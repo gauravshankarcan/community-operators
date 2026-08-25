@@ -1,5 +1,5 @@
 reviewers:
-  - davi17g
-  - ashishshinde 
-  - sud82 
-updateGraph: replaces-mode
+  - tanmayja
+  - abhishekdwivedi3060
+  - shubhamyelikar99
+updateGraph: semver-mode
